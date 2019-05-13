@@ -1,0 +1,18 @@
+mkdir learngit
+cd learngit
+pwd
+git init
+ls -ah
+
+
+git add
+git commit -m
+git reset head commit head HEAD^
+git reset head commit commit_id
+git log
+git reflog
+git status
+
+
+caat readme.txt
+git diff HEAD -- readme.txt
