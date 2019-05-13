@@ -9,6 +9,8 @@ git add
 git commit -m
 git reset head commit head HEAD^
 git reset head commit commit_id
+
+cat readme.txt
 git log
 git reflog
 git status
